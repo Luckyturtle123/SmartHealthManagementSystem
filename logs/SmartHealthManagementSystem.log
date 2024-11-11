@@ -1,0 +1,246 @@
+2024-11-11 00:14:21 [http-nio-8008-exec-7] INFO  c.m.s.services.UserService - Registering user: Amit123
+2024-11-11 00:16:25 [http-nio-8008-exec-8] INFO  c.m.s.services.UserService - Registering user: Priya123
+2024-11-11 00:17:24 [http-nio-8008-exec-3] INFO  c.m.s.services.UserService - Registering user: Vikram123
+2024-11-11 00:18:12 [http-nio-8008-exec-10] INFO  c.m.s.services.UserService - Registering user: Anjali123
+2024-11-11 00:19:04 [http-nio-8008-exec-1] INFO  c.m.s.services.UserService - Registering user: Rahul123
+2024-11-11 00:20:04 [http-nio-8008-exec-5] INFO  c.m.s.services.UserService - Registering user: Anita123
+2024-11-11 00:22:32 [http-nio-8008-exec-2] INFO  c.m.s.services.UserService - Registering user: Sunita123
+2024-11-11 00:23:40 [http-nio-8008-exec-9] INFO  c.m.s.services.UserService - Registering user: Seema123
+2024-11-11 00:24:22 [http-nio-8008-exec-3] INFO  c.m.s.services.UserService - Registering user: Ritu123
+2024-11-11 00:25:12 [http-nio-8008-exec-10] INFO  c.m.s.services.UserService - Registering user: Karan123
+2024-11-11 00:26:22 [http-nio-8008-exec-4] INFO  c.m.s.services.UserService - Registering user: Manoj123
+2024-11-11 00:27:02 [http-nio-8008-exec-7] INFO  c.m.s.services.UserService - Registering user: Sneha123
+2024-11-11 00:27:36 [http-nio-8008-exec-2] INFO  c.m.s.services.UserService - Registering user: Vikram123
+2024-11-11 00:27:36 [http-nio-8008-exec-2] ERROR c.m.s.services.UserService - User with username or email already exists
+2024-11-11 00:28:06 [http-nio-8008-exec-8] INFO  c.m.s.services.UserService - Registering user: Vikramkapoor123
+2024-11-11 00:29:31 [http-nio-8008-exec-10] INFO  c.m.s.services.UserService - Registering user: Pooja
+2024-11-11 00:31:32 [http-nio-8008-exec-4] INFO  c.m.s.services.UserService - Registering user: Ajay123
+2024-11-11 01:10:02 [RMI TCP Connection(77)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2024-11-11 01:10:02 [RMI TCP Connection(77)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 01:10:02 [RMI TCP Connection(77)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-11 01:10:02 [RMI TCP Connection(77)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-11 10:33:29 [main] INFO  c.m.s.SmartHealthManagementSystemApplication - Starting SmartHealthManagementSystemApplication using Java 21.0.2 with PID 1840 (C:\Users\Mukesh\Desktop\INCTURE\Smart_Health_Management\SmartHealthManagementSystem\target\classes started by Mukesh in C:\Users\Mukesh\Desktop\INCTURE\Smart_Health_Management\SmartHealthManagementSystem)
+2024-11-11 10:33:29 [main] INFO  c.m.s.SmartHealthManagementSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 10:33:30 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 10:33:30 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 96 ms. Found 8 JPA repository interfaces.
+2024-11-11 10:33:30 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8008 (http)
+2024-11-11 10:33:30 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-11 10:33:30 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 10:33:31 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-11 10:33:31 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1863 ms
+2024-11-11 10:33:31 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 10:33:31 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 10:33:31 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-11-11 10:33:31 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 10:33:31 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-11 10:33:32 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@32d22650
+2024-11-11 10:33:32 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-11 10:33:32 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 10:33:32 [main] WARN  org.hibernate.orm.deprecation - HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2024-11-11 10:33:33 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 10:33:34 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 10:33:34 [main] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-11-11 10:33:35 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 10:33:35 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2024-11-11 10:33:35 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8008 (http) with context path '/'
+2024-11-11 10:33:35 [main] INFO  c.m.s.SmartHealthManagementSystemApplication - Started SmartHealthManagementSystemApplication in 7.473 seconds (process running for 8.505)
+2024-11-11 10:33:48 [http-nio-8008-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 10:33:48 [http-nio-8008-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-11 10:33:48 [http-nio-8008-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2024-11-11 10:52:06 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m33s165ms99µs300ns).
+2024-11-11 11:51:04 [RMI TCP Connection(81)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2024-11-11 11:51:04 [RMI TCP Connection(81)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 11:51:04 [RMI TCP Connection(81)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-11 11:51:04 [RMI TCP Connection(81)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-11 12:58:43 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - Starting SmartHealthManagementSystemApplicationTests using Java 21.0.2 with PID 12116 (started by Mukesh in C:\Users\Mukesh\Desktop\INCTURE\Smart_Health_Management\SmartHealthManagementSystem)
+2024-11-11 12:58:43 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 12:58:45 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 12:58:45 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 86 ms. Found 8 JPA repository interfaces.
+2024-11-11 12:58:46 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 12:58:46 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 12:58:46 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-11-11 12:58:47 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 12:58:47 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-11 12:58:48 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@390d47db
+2024-11-11 12:58:48 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-11 12:58:48 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 12:58:48 [main] WARN  org.hibernate.orm.deprecation - HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2024-11-11 12:58:50 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 12:58:50 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 12:58:50 [main] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-11-11 12:58:52 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 12:58:52 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2024-11-11 12:58:53 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - Started SmartHealthManagementSystemApplicationTests in 10.102 seconds (process running for 12.708)
+2024-11-11 12:58:55 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 12:58:55 [main] ERROR c.m.s.services.UserService - Invalid password for user: testUser
+2024-11-11 12:58:55 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 12:58:55 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 12:58:55 [main] ERROR c.m.s.services.UserService - User with username or email already exists
+2024-11-11 12:58:55 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 12:58:55 [main] ERROR c.m.s.services.UserService - User not found: testUser
+2024-11-11 12:58:55 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 12:58:55 [main] INFO  c.m.s.services.UserService - User authenticated successfully: testUser
+2024-11-11 12:58:55 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 12:58:57 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 12:58:57 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-11 12:58:57 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-11 13:01:09 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - Starting SmartHealthManagementSystemApplicationTests using Java 21.0.2 with PID 18116 (started by Mukesh in C:\Users\Mukesh\Desktop\INCTURE\Smart_Health_Management\SmartHealthManagementSystem)
+2024-11-11 13:01:09 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 13:01:10 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 13:01:10 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 100 ms. Found 8 JPA repository interfaces.
+2024-11-11 13:01:11 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 13:01:11 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 13:01:11 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-11-11 13:01:12 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 13:01:12 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-11 13:01:12 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7a9794bd
+2024-11-11 13:01:12 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-11 13:01:13 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 13:01:13 [main] WARN  org.hibernate.orm.deprecation - HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2024-11-11 13:01:15 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 13:01:15 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 13:01:15 [main] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-11-11 13:01:16 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 13:01:16 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2024-11-11 13:01:17 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - Started SmartHealthManagementSystemApplicationTests in 9.421 seconds (process running for 11.626)
+2024-11-11 13:01:20 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:01:20 [main] ERROR c.m.s.services.UserService - Invalid password for user: testUser
+2024-11-11 13:01:20 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:01:20 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:01:20 [main] ERROR c.m.s.services.UserService - User with username or email already exists
+2024-11-11 13:01:20 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:01:20 [main] ERROR c.m.s.services.UserService - User not found: testUser
+2024-11-11 13:01:20 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:01:20 [main] INFO  c.m.s.services.UserService - User authenticated successfully: testUser
+2024-11-11 13:01:20 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:01:21 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 13:01:22 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-11 13:01:22 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-11 13:03:00 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - Starting SmartHealthManagementSystemApplicationTests using Java 21.0.2 with PID 16760 (started by Mukesh in C:\Users\Mukesh\Desktop\INCTURE\Smart_Health_Management\SmartHealthManagementSystem)
+2024-11-11 13:03:00 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 13:03:01 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 13:03:01 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 101 ms. Found 8 JPA repository interfaces.
+2024-11-11 13:03:02 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 13:03:02 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 13:03:02 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-11-11 13:03:02 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 13:03:02 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-11 13:03:03 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ce3ae71
+2024-11-11 13:03:03 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-11 13:03:03 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 13:03:03 [main] WARN  org.hibernate.orm.deprecation - HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2024-11-11 13:03:05 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 13:03:05 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 13:03:06 [main] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-11-11 13:03:06 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 13:03:06 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2024-11-11 13:03:07 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - Started SmartHealthManagementSystemApplicationTests in 8.469 seconds (process running for 10.757)
+2024-11-11 13:03:10 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:03:10 [main] ERROR c.m.s.services.UserService - Invalid password for user: testUser
+2024-11-11 13:03:10 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:03:10 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:03:10 [main] ERROR c.m.s.services.UserService - User with username or email already exists
+2024-11-11 13:03:10 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:03:10 [main] ERROR c.m.s.services.UserService - User not found: testUser
+2024-11-11 13:03:10 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:03:10 [main] INFO  c.m.s.services.UserService - User authenticated successfully: testUser
+2024-11-11 13:03:10 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:03:11 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 13:03:11 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-11 13:03:11 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-11 13:04:48 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - Starting SmartHealthManagementSystemApplicationTests using Java 21.0.2 with PID 16828 (started by Mukesh in C:\Users\Mukesh\Desktop\INCTURE\Smart_Health_Management\SmartHealthManagementSystem)
+2024-11-11 13:04:48 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 13:04:49 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 13:04:49 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 118 ms. Found 8 JPA repository interfaces.
+2024-11-11 13:04:50 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 13:04:50 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 13:04:50 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-11-11 13:04:51 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 13:04:51 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-11 13:04:52 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@99c24c
+2024-11-11 13:04:52 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-11 13:04:52 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 13:04:52 [main] WARN  org.hibernate.orm.deprecation - HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2024-11-11 13:04:54 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 13:04:54 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 13:04:54 [main] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-11-11 13:04:55 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 13:04:55 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2024-11-11 13:04:56 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - Started SmartHealthManagementSystemApplicationTests in 8.639 seconds (process running for 10.771)
+2024-11-11 13:04:58 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:04:58 [main] ERROR c.m.s.services.UserService - Invalid password for user: testUser
+2024-11-11 13:04:59 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:04:59 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:04:59 [main] ERROR c.m.s.services.UserService - User with username or email already exists
+2024-11-11 13:04:59 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:04:59 [main] ERROR c.m.s.services.UserService - User not found: testUser
+2024-11-11 13:04:59 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:04:59 [main] INFO  c.m.s.services.UserService - User authenticated successfully: testUser
+2024-11-11 13:04:59 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:05:00 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 13:05:00 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-11 13:05:00 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-11 13:05:52 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - Starting SmartHealthManagementSystemApplicationTests using Java 21.0.2 with PID 21392 (started by Mukesh in C:\Users\Mukesh\Desktop\INCTURE\Smart_Health_Management\SmartHealthManagementSystem)
+2024-11-11 13:05:52 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 13:05:53 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 13:05:53 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 88 ms. Found 8 JPA repository interfaces.
+2024-11-11 13:05:54 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 13:05:54 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 13:05:54 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-11-11 13:05:55 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 13:05:55 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-11 13:05:55 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4d37c839
+2024-11-11 13:05:55 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-11 13:05:55 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 13:05:55 [main] WARN  org.hibernate.orm.deprecation - HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2024-11-11 13:05:57 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 13:05:57 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 13:05:58 [main] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-11-11 13:05:59 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 13:05:59 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2024-11-11 13:06:00 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - Started SmartHealthManagementSystemApplicationTests in 8.669 seconds (process running for 10.83)
+2024-11-11 13:06:02 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:06:02 [main] ERROR c.m.s.services.UserService - Invalid password for user: testUser
+2024-11-11 13:06:02 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:06:02 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:06:02 [main] ERROR c.m.s.services.UserService - User with username or email already exists
+2024-11-11 13:06:02 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:06:02 [main] ERROR c.m.s.services.UserService - User not found: testUser
+2024-11-11 13:06:02 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:06:02 [main] INFO  c.m.s.services.UserService - User authenticated successfully: testUser
+2024-11-11 13:06:02 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:06:04 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 13:06:04 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-11 13:06:04 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-11-11 13:08:01 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - Starting SmartHealthManagementSystemApplicationTests using Java 21.0.2 with PID 16008 (started by Mukesh in C:\Users\Mukesh\Desktop\INCTURE\Smart_Health_Management\SmartHealthManagementSystem)
+2024-11-11 13:08:01 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 13:08:02 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 13:08:03 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 101 ms. Found 8 JPA repository interfaces.
+2024-11-11 13:08:03 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 13:08:03 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 13:08:03 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-11-11 13:08:04 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 13:08:04 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-11-11 13:08:05 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5e57149f
+2024-11-11 13:08:05 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-11-11 13:08:05 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 13:08:05 [main] WARN  org.hibernate.orm.deprecation - HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2024-11-11 13:08:07 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 13:08:07 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 13:08:07 [main] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-11-11 13:08:08 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 13:08:08 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2024-11-11 13:08:09 [main] INFO  c.m.s.SmartHealthManagementSystemApplicationTests - Started SmartHealthManagementSystemApplicationTests in 8.562 seconds (process running for 10.814)
+2024-11-11 13:08:12 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:08:12 [main] ERROR c.m.s.services.UserService - Invalid password for user: testUser
+2024-11-11 13:08:12 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:08:12 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:08:12 [main] ERROR c.m.s.services.UserService - User with username or email already exists
+2024-11-11 13:08:12 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:08:12 [main] ERROR c.m.s.services.UserService - User not found: testUser
+2024-11-11 13:08:12 [main] INFO  c.m.s.services.UserService - Authenticating user: testUser
+2024-11-11 13:08:12 [main] INFO  c.m.s.services.UserService - User authenticated successfully: testUser
+2024-11-11 13:08:12 [main] INFO  c.m.s.services.UserService - Registering user: testUser
+2024-11-11 13:08:13 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 13:08:13 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-11-11 13:08:13 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
